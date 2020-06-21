@@ -1,0 +1,30 @@
+Type out python in cmd to get a python environment setup for short work
+ctrl + slash            to turn line into comment, to undo press same
+Absolute Path           start from the main root of a hard disk
+Relative Path           current directory to somewhere else
+
+Numpy                   provides multi dimensional array
+Pandas                  data analysis library which provides data frame(a 2D data structure similar to excel spreadsheet)
+MatPlotlib              2D data library to make graphs and plots
+Scikit_Learn           provides with basic algoithmic stratergies
+
+pypi.org is a website for downloading packages in pycharm using terminal
+use show in explorer option to paste files in pycharm
+to import file from the same directory use - from . import xyz
+django command : django-admin startproject P3_ShoppingWb .
+the space after ShoppingWb shows that we want to  make it in the same locals rather than a new work area
+
+# Jupyter Notebook
+to launch jupyter file type in terminal jupyter notebook, it launches it in default browser
+store files in same folder to import them
+dont close cmd as the portal would stop
+to turn into a command mode - esc + h (for notebook learning)
+a - above, b - below, d(twice) - delete
+X - input, y - Output
+variable* + tab : gives the list of attributes, methods that can be applied
+shift + tab     : description about the attribute in use
+ctrl + slash    : to turn a statement into comment and undo it
+ctrl + enter    : to use only the current block for execution
+
+# Atom
+to run graphviz file  : ctrl + shift + g
